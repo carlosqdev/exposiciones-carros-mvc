@@ -26,5 +26,9 @@ namespace exposiciones_carros_mvc.Controllers
 
             return View();
         }
+        public ActionResult Autor()
+        {
+            return View();
+        }
     }
 }
