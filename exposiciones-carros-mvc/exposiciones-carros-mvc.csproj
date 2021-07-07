@@ -241,6 +241,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="img\tesla-model-3.jpg" />
+    <Content Include="img\tesla-model-s.jpg" />
+    <Content Include="img\tesla-model-x.jpg" />
     <Content Include="ModelComentarios.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>ModelComentarios.edmx</DependentUpon>
